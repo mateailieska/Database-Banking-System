@@ -1,6 +1,6 @@
 # Database Banking System
 
-Relational database project for a banking information system.
+Team project - relational database project for a banking information system.
 
 ## Technologies
 
