@@ -23,10 +23,6 @@ The project includes:
 - Triggers
 - ER diagram
 
-## ER Diagram
-
-![ER Diagram](diagrams/ERDijagram.png)
-
 ## Project Structure
 
 - `sql/` – SQL scripts for creating and manipulating the database
