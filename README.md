@@ -22,8 +22,3 @@ The project includes:
 - Indexes
 - Triggers
 - ER diagram
-
-## Project Structure
-
-- `sql/` – SQL scripts for creating and manipulating the database
-- `diagrams/` – ER diagram
